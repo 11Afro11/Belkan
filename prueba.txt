@@ -1,0 +1,3899 @@
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 2
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 1
+El valor de derecha es: 2
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 1
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 1
+El valor de derecha es: 2
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+CUIDADO: NO ESTAS CONTROLANDO BIEN LA UBICACION DE TU AGENTE
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+CUIDADO: NO ESTAS CONTROLANDO BIEN LA UBICACION DE TU AGENTE
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 2
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 1
+El valor de derecha es: 2
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 2
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 2
+El valor de derecha es: 2
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 1
+El valor de derecha es: 0
+El valor de alante es: 1
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 3
+El valor de derecha es: 1
+El valor de alante es: 1
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 3
+El valor de derecha es: 0
+El valor de alante es: 1
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 3
+El valor de derecha es: 1
+El valor de alante es: 3
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 3
+El valor de alante es: 3
+Giramos pa la izquierda
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 2
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 2
+El valor de derecha es: 2
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 1
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 1
+El valor de alante es: 2
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 1
+El valor de derecha es: 2
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 2
+El valor de alante es: 1
+Giramos pa la izquierda
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 2
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al sur
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al este
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 1
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 1
+El valor de derecha es: 1
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al norte
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Regla 1: evita obstaculo del terreno
+Regla 2: primera parte del movimiento
+Regla 3: ultima parte del movimiento
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
+Vamos Palante
+Sigo el algoritmo de Hansel y Gretel
+miro al oeste
+El valor de izquierda es: 0
+El valor de derecha es: 0
+El valor de alante es: 0
