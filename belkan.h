@@ -54,7 +54,8 @@ public:
 		mypk2f = 0;
 		mypk2c = 0;
 		he_guardado = true;
-		buscando = false;
+		buscando1 = false;
+		buscando2 = false;
 
 		primera_vez = true;
 		coordenadas_correctas = false;
@@ -131,7 +132,8 @@ private:
 	int cero_x;
 	int cero_y;
 	bool he_guardado;
-	bool buscando;
+	bool buscando1;
+	bool buscando2;
 
 	//Para orientarme
 

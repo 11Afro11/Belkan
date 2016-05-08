@@ -858,7 +858,7 @@ Agent::ActionType Agent::Think()
 	if(he_guardado){
 		accion = actPICKUP;
 		he_guardado = false;
-	}
+	}	
 
 	else if(SURFACE_[0] == '0' and EN_USO_ == '-'){
 		cout << "He recogido el bañador\n";
@@ -880,30 +880,83 @@ Agent::ActionType Agent::Think()
 		he_guardado = true;
 	}
 
-	else if(VISTA_[1] == 'A' and EN_USO_ == '0' and buscando){	
-		buscando = false;
+	else if(SURFACE_[0] == '9' and EN_USO_ != '-'){
+		cout << "He visto un algoritmo pero tengo algo en la mano"<<endl;
+		accion = actPUSH;
+		he_guardado = true;
+	}
+
+	else if(VISTA_[1] == 'A' and EN_USO_ == '0' && (buscando1 or buscando2)){	
+		buscando1 = false;
+		buscando2 = false;
 		accion = actFORWARD;
 	}
 
-	else if(VISTA_[1] == 'B' and EN_USO_ == '6' and buscando){
-		buscando = false;
+	else if(VISTA_[1] == 'B' and EN_USO_ == '6' && (buscando1 or buscando2)){
+		buscando1 = false;
+		buscando2 = false;
 		accion = actFORWARD;
 	}
 
-	else if(buscando){
+	else if(SURFACE_[1] == 'o' and EN_USO_ == '9'){
+		cout << "Le dou el algoritmo al profesor"<<endl;
+		accion = actGIVE;
+	}
+
+	else if(SURFACE_[1] == 'p' and EN_USO_ == '9'){
+		cout << "Le dou el algoritmo al profesor"<<endl;
+		accion = actGIVE;
+	}
+
+	else if(SURFACE_[1] == 'o' and EN_USO_ == '9' && (buscando1 or buscando2)){
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	else if(SURFACE_[1] == 'p' and EN_USO_ == '9' && (buscando1 or buscando2)){
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	else if(buscando2){
+		accion = actPUSH;
+		cout << "En uso tengo: " << EN_USO_ << endl;
+		buscando2 = false;
+		buscando1 = true;
+	}
+
+	else if(buscando1){
 		// cout << "saco de la mochila" << MOCHILLA_[0]<<endl;
 		accion = actPOP;
 		cout << "En uso tengo: " << EN_USO_ << endl;
+		buscando1 = false;
+		buscando2 = true;
 	}
 
 	else if(VISTA_[1] == 'A' and EN_USO_ != '0' and find('0')){	
-		buscando = true;
+		buscando1 = true;
 		cout << "guardo en la mochila"<< EN_USO_ <<endl;
 		accion = actPUSH;	
 	}
 
 	else if(VISTA_[1] == 'B' and EN_USO_ != '6' and find('6')){	
-		buscando = true;
+		buscando1 = true;
+		cout << "guardo en la mochila"<< EN_USO_ <<endl;
+		accion = actPUSH;
+
+	}
+
+	else if(SURFACE_[1] == 'o' and EN_USO_ != '9' and find('9')){	
+		buscando1 = true;
+		cout << "guardo en la mochila"<< EN_USO_ <<endl;
+		accion = actPUSH;
+
+	}
+
+	else if(SURFACE_[1] == 'p' and EN_USO_ != '9' and find('9')){	
+		buscando1 = true;
 		cout << "guardo en la mochila"<< EN_USO_ <<endl;
 		accion = actPUSH;
 
