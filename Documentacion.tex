@@ -1,0 +1,393 @@
+\documentclass[10pt,a4paper,spanish]{article}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amsthm}
+\usepackage{amsfonts, amssymb, latexsym}
+\usepackage{enumerate}
+\usepackage[official]{eurosym}
+\usepackage{graphicx}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{fancyhdr}
+\usepackage[all]{xy}
+\usepackage[below]{placeins}
+\usepackage{subfigure}
+\usepackage{eso-pic}
+\usepackage{minted}
+\usepackage{hyperref}
+\usepackage[spanish]{algorithm2e}
+
+
+\hypersetup{
+    colorlinks,
+    citecolor=green,
+    filecolor=green,
+    linkcolor=black,
+    urlcolor=green
+}
+\phantomsection
+\setlength\parindent{0pt}
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,
+keepaspectratio]{{/home/afro/Documentos/LaTEX/hola.jpg}}
+\vfill
+}}}
+
+\DeclareGraphicsExtensions{.png,.pdf,.jpg,.gif }
+
+
+
+\title{MEMORIA}
+\author{Francisco Javier Fuentes Barragán}
+\date{\today}
+
+\begin{document}
+
+\AddToShipoutPicture{\BackgroundPic}
+
+\begin{titlepage}
+
+\begin{center}
+\vspace*{-1in}
+\begin{figure}[htb]
+\begin{center}
+\includegraphics[width=8cm]{{/home/afro/Documentos/LaTEX/portada.jpg}}
+\end{center}
+\end{figure}
+
+ESCUELA TECNICA SUPERIOR DE INGENIERÍA INFORMÁTICA Y TELECOMUNICACIONES\\
+\vspace*{0.15in}
+\vspace*{0.2in}
+INTELIGENCIA ARTIFICIAL \\
+\vspace*{0.6in}
+\rule{80mm}{0.1mm}\\
+\vspace*{0.2in}
+\begin{Large}
+\textbf{Documentacion} \\
+\end{Large}
+\vspace*{0.3in}
+\begin{large}
+Documentacion a \LaTeX{}\\
+\end{large}
+\vspace*{0.3in}
+\rule{80mm}{0.1mm}\\
+\vspace*{0.1in}
+\begin{large}
+Hecho por: \\
+Francisco Javier Fuentes Barragán\\
+\end{large}
+\end{center}
+
+\end{titlepage}
+
+\AddToShipoutPicture{\BackgroundPic}
+
+\tableofcontents
+
+\maketitle
+
+
+\section{Descripción de la práctica}
+
+En esta práctica vamos a programar un agente reactivo, el cual estará suelto en un entorno que debe descubrir.
+Este entorno viene determinado por una matriz de 100x100 en el que se representa tanto el terreno como los objetos y personajes con los que podemos interactuar. Nuestro agente tiene una vision tubular ,representada internamente por un vector de 10 elementos, con la cual percibe el entorno.
+
+
+\[
+\begin{pmatrix}
+? & ? & ? & ? & ?\\
+5 & 6 & 7 & 8 & 9\\
+? & 2 & 3 & 4 & ?\\
+? & ? & 1 & ? & ?\\
+? & ? & 0 & ? & ?\\
+\end{pmatrix}
+\]
+
+
+El objetivo de esta práctica es descubrir el máximo terreno posible dentro del mapa, y la máxima puntuación final.
+
+La puntuación final viene determinada por la interaccion de nuestro agente con los personajes.
+
+
+
+\section{Algoritmo de movimiento}
+
+Nuestro agente va a seguir un algoritmo básico de movimiento, el cual combinado con demas objetos encontrados en el entorno es mas que suficiente para descubrir la mayor parte del mapa entorno en el que nos encontramos.
+
+El algoritmo que seguimos es el $"Algoritmo de Pulgarcito" o "Hansel y Gretel"$, depende del cuento que prefiera cada uno. Consiste en ir soltando $"migas de pan"$ en el terreno. Estoa nivel interno, lo representamos como una matriz de enteros, inicializada a 0 la cual vamos incrementando según vamos pasando por un punto y, lejos de querer volver a nuestra casa como en el cuento, lo que haremos será ir por el camino que menos migas de pan tenga.
+
+$
+\begin{pmatrix}
+0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 0 \\
+\end{pmatrix}
+$
+$
+\begin{pmatrix}
+0 & 0 & 3 & 0 \\
+0 & 0 & 2 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 0 \\
+\end{pmatrix}
+$
+$
+\begin{pmatrix}
+0 & 0 & 4 & 5 \\
+0 & 0 & 2 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 0 \\
+\end{pmatrix}
+$
+
+\bigskip
+\begin{algorithm}[H]
+\SetAlgoLined
+% \KwData{Entorno}
+% \KwResult{Como saber a donde ir \LaTeX}
+\While{$pasos < 20000$}{
+	\If{$arriba \leq izquierda$ \textbf{and} $arriba \leq derecha$}{
+		Go arriba\;
+	}
+	\ElseIf{$izquierda < derecha$}{
+		Go izquierda\;
+	}
+	\Else{
+		Go derecha\;
+	}
+}
+\caption{Algoritmo de decisión}
+\end{algorithm}
+
+\bigskip
+
+
+
+\bigskip
+
+
+\section{orientación}
+
+Dentro del entrono nos encontramos con una serie de puntos, visualmente de color amarillo, e internamente representados con la letra k los cuales son GPS. En nuestro mundo, la matriz es de 100x100 pero realmente nosotros estamos en una matriz de 200x200, es decir nuestras coordenadas no se ajustan a las dadas por la solución. Y no solo eso, nuestra matriz puede estar rotada, de tal forma que no sepamos realmente donde nos encontramos ni siquiera con nuestra variable de orientacón. Supongamos que esta es nuestra matriz original:
+\bigskip
+
+$
+\begin{pmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9 \\
+\end{pmatrix}
+$
+
+
+Nuestra matriz se puede encontrar rotada de tal forma que la veamos a la izquierda, derecha o boca abajo:
+
+$
+\begin{pmatrix}
+3 & 6 & 9 \\
+2 & 5 & 8 \\
+1 & 4 & 7 \\
+\end{pmatrix}
+$
+$
+\begin{pmatrix}
+9 & 8 & 7 \\
+6 & 5 & 4 \\
+3 & 2 & 1 \\
+\end{pmatrix}
+$
+$
+\begin{pmatrix}
+7 & 4 & 1 \\
+8 & 5 & 2 \\
+9 & 6 & 3 \\
+\end{pmatrix}
+$
+
+Para poder orientarnos debemos localizar en al mapa dos gps para guardar tanto mis coordenadas reales como las de la matriz en la que me encentro. Una vez hecho esto calculamos f1, f2, c1 y c2 los cuales se calculan asi:
+
+$f1 = fila_{primer\_punto\_original} - fila_{segundo\_punto\_original}$
+
+$f2 = fila_{primer\_punto\_de\_nuestra\_matriz} - fila_{segundo\_punto\_de\_nuestra\_matriz}$
+
+$c1 = columna_{primer\_punto\_original} - columna_{segundo\_punto\_original}$
+
+$c2 = columna_{primer\_punto\_de\_nuestra\_matriz} - columna_{segundo\_punto\_de\_nuestra\_matriz}$
+
+
+El algoritmo a seguir para orientarse será el siguiente:
+
+
+\begin{algorithm}[H]
+\SetAlgoLined
+% \KwData{Entorno}
+% \KwResult{Como saber a donde ir \LaTeX}
+\If{$f1 == f2$}{
+	Estoy bien orientado\;
+	Algoritmo de copia basica\;
+}
+\ElseIf{$f1 == -f2$}{
+	Estoy Boca abajo\;
+	Algoritmo de copia invertida\;
+}
+\ElseIf{f1 == c2}{
+	Estoy girado a la izquierda\;
+	Algoritmo de rotar a la derecha\;
+}
+
+\ElseIf{f1 == -c2}{
+	Estoy girado a la derecha\;
+	Algoritmo de rotar a la izquierda\;
+}
+
+Algoritmo para copiar
+
+\caption{Algoritmo de orientación}
+\end{algorithm}
+
+\bigskip
+\bigskip
+
+\begin{algorithm}[H]
+\SetAlgoLined
+\For{$fila = 0; fila < 200 fila++$}{
+	\For{$col = 0; col < 200; col++$}{
+		$aux[fila][col] = entorno[fila][col]$\;
+	}
+}
+\caption{Algoritmo de copia basica}
+\end{algorithm}
+
+\bigskip
+\bigskip
+
+\begin{algorithm}[H]
+\SetAlgoLined
+
+$segundo\_punto_f = 199 - segundo\_punto_f$\;
+$segundo\_punto_c = 199 - segundo\_punto_c$\;
+
+\For{$fila = 0; fila < 200 fila++$}{
+	\For{$col = 0; col < 200; col++$}{
+		$aux[fila][col] = entorno[199-fila][199-col]$\;
+	}
+}
+\caption{Algoritmo de copia invertida}
+\end{algorithm}
+
+\bigskip
+\bigskip
+
+\begin{algorithm}[H]
+\SetAlgoLined
+
+$swap(segundo\_punto\_f, segundo\_punto\_c)$\;
+
+
+$segundo\_punto\_c = 199 - segundo\_punto_c$\;
+
+\For{$fila = 0; fila < 200 fila++$}{
+	\For{$col = 0; col < 200; col++$}{
+		$aux[fila][col] = entorno[199-col][fila]$\;
+	}
+}
+\caption{Algoritmo de rotar a la derecha}
+\end{algorithm}
+
+
+\bigskip
+\bigskip
+
+\begin{algorithm}[H]
+\SetAlgoLined
+
+$swap(segundo\_punto\_f, segundo\_punto\_c)$\;
+
+
+$segundo\_punto\_f = 199 - segundo\_punto_f$\;
+
+\For{$i|0:99$}{
+	\For{$j|0:99$}{
+		$solucion[i][j] = aux[segundo\_punto_f - punto\_original_f -i][segundo\_punto_c - punto\_original_c -j]$\;
+	}
+}
+\caption{Algoritmo para copiar}
+\end{algorithm}
+
+
+
+\section{Recoger objetos}
+
+En el mundo nos podemos encontrar con diversos objetos ls cuales podemos recoger para posteriormente usarlos a nuestro beneficio. Como dije antes, nuestro algoritmo de movimiento es muy básico, pero existen dos objetos gracias a los cuales se vuelve muy potente. Esos dos objetos son las botas y el bañador. En nuestro entorno hay zonas en las que no podemos entrar, muros, bosque, agua. Pues con estos dos objetos seremos capaces de acceder a la zona de los bosques (botas), y a la zona de agua (bañador). El algoritmo a seguir seria;
+
+
+
+\begin{algorithm}[H]
+\SetAlgoLined
+% \KwData{Entorno}
+% \KwResult{Como saber a donde ir \LaTeX}
+\If{bosque \textbf{and} botas}{
+	actFOWARD\;
+}
+\ElseIf{agua \textbf{and} bañador}{
+	actFOWARD\;
+}
+\ElseIf{bosque \textbf{and} botas-en-mochila}{
+	find botas\;
+}
+\ElseIf{agua \textbf{and} bañador-en-mochila}{
+	find bañador\;
+}
+\Else{
+	Algoritmo de movimiento normal\;
+}
+
+\caption{Algoritmo busqueda con objetos}
+\end{algorithm}
+
+\section{Interacción con los personajes}
+
+A parte de objetos tambien podemos encontrarnos con varios personajes a lo largo del juego. Los personajes pueden ser princesas, princesos, brujas, nuestro querido profesor de IA y al actor Leonardo Di Caprio, que supongo que se habrá perdido o algo. En nuestro entorno, a parte de los objetos que usamos para movernos, botas, bañador, se encuentran objetos que estos personajes desean, el princeso quiere la espada, el profesor de IA quiere el algoritmo, Leonardo ansía el oscar etc.. Si recogemos esos objetos y se los entregamos conseguiremos puntuacion que se sumara al final en la nota. Nuestro agente se encargará de entregarle el oscar a dicaprio y el algoritmo al profesor. el procedimiento a seguir es igual que con las botas.
+
+\begin{algorithm}[H]
+\SetAlgoLined
+% \KwData{Entorno}
+% \KwResult{Como saber a donde ir \LaTeX}
+\If{dicaprio \textbf{and} oscar}{
+	actGIVE\;
+}
+\ElseIf{profesor \textbf{and} alg}{
+	actGIVE\;
+}
+\ElseIf{dicaprio \textbf{and} oscar-en-mochila}{
+	find oscar\;
+}
+\ElseIf{profesor \textbf{and} alg-en-mochila}{
+	find alg\;
+}
+\Else{
+	Algoritmo de movimiento normal\;
+}
+
+\caption{Algoritmo para entregar objetos}
+\end{algorithm}
+
+\section{Muerte}
+
+Este es un entorno hostil, en el que nos podemos encontrar amenazas, la mas significativa es un oso que al vernos nos atacara y nos matará al instante, sin que a Leonardo le de lugar a enfrentarse a él.
+Esto hace que debamos tener en cuenta en todo momento la posible muerte de nuestro personaje. Al morir se borrara todo y otra vez tendremos que volver a orientarnos. ¿Como podemos hacer que la muerte no sea tan perjudicial?
+En mi caso, con una variable booleana $"respawn"$ la cual al morir se activa y salva el mapa solución. Gracias a esta variable, al la hora de volver a orientarnos nos dirá si ya teniamos solución guardada anteriormente para evitar sobreescribirla.
+
+\newpage
+
+\ClearShipoutPicture
+
+
+\end{document}

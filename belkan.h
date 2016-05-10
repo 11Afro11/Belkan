@@ -59,6 +59,7 @@ public:
 
 		primera_vez = true;
 		coordenadas_correctas = false;
+		respawn = false;
 
 	}
 
@@ -148,6 +149,7 @@ private:
 
 	bool primera_vez;
 	bool coordenadas_correctas;
+	bool respawn;
 
 
 };

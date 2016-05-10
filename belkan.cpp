@@ -225,7 +225,6 @@ void Agent::ActualizarInformacion(Environment *env){
 		      // mapa_[i][j]=0;
 		      mapa_entorno_[i][j]='?';
 		      mapa_objetos_[i][j]='?';
-		      migas_de_pan_[i][j]=0;
 		    }
 		
 
@@ -240,26 +239,29 @@ void Agent::ActualizarInformacion(Environment *env){
 
 		primera_vez = true;
 		coordenadas_correctas = false;
+		respawn = true;
 	}
 
 
 
 	switch(last_accion_){
 	  case 0: //avanzar
-	  switch(orientacion_){
-	    case 0: // norte
-		    y_--;
-		    break;
-	    case 1: // este
-		    x_++;
-		    break;
-	    case 2: // sur
-		    y_++;
-		    break;
-	    case 3: // oeste
-		    x_--;
-		    break;
-	  }
+	  if(MENSAJE_ != "Has chocado con un obstaculo movil. "){
+		  switch(orientacion_){
+		    case 0: // norte
+			    y_--;
+			    break;
+		    case 1: // este
+			    x_++;
+			    break;
+		    case 2: // sur
+			    y_++;
+			    break;
+		    case 3: // oeste
+			    x_--;
+			    break;
+		  }
+		}
 	  break;
 	  case 1: // girar izq
 		  orientacion_=(orientacion_+3)%4;
@@ -296,7 +298,7 @@ void Agent::ActualizarInformacion(Environment *env){
 
 	//suelto miguita de pan
 	tiempo ++;
-	if(tiempo == 19000 or tiempo == 19999){
+	if(tiempo == 19999){
 		for(int i = 0; i < 100; i++){
 			for(int j = 0; j < 100; j++){
 				if(mapa_entorno_[i][j] == 'M'){
@@ -318,8 +320,19 @@ void Agent::ActualizarInformacion(Environment *env){
 							primery += 1;
 							cuenta_col++;
 						}
+						else if(mapa_entorno_[primerx][primery +1] == '?' and mapa_entorno_[primerx -1][primery+1] == 'P'){
+							mapa_entorno_[primerx][primery+1] = 'M';
+							mapa_solucion_[primerx][primery+1] = 'M';
+							primery +=1;
+							cuenta_col++;
+						}
 						else if(mapa_entorno_[primerx+1][primery] == 'M' || mapa_entorno_[primerx+1][primery] == 'D'){
 							primerx += 1;
+						}
+						else if(mapa_entorno_[primerx+1][primery] == '?' and mapa_entorno_[primerx+1][primery+1] == 'P'){
+							mapa_entorno_[primerx+1][primery] = 'M';
+							mapa_solucion_[primerx+1][primery] = 'M';
+							primerx +=1;
 						}
 						else 
 							cerrado = false;
@@ -337,6 +350,12 @@ void Agent::ActualizarInformacion(Environment *env){
 
 						else if(mapa_entorno_[segundox][segundoy+1] == 'M' || mapa_entorno_[segundox][segundoy+1] == 'D'){
 							segundoy+=1;
+						}
+
+						else if(mapa_entorno_[segundox][segundoy+1] == '?' and mapa_entorno_[segundox+1][segundoy+1] == 'P'){
+							mapa_entorno_[segundox][segundoy+1] = 'M';
+							mapa_solucion_[segundox][segundoy+1] = 'M';
+							segundoy +=1;
 						}
 						else 
 							cerrado = false;
@@ -601,9 +620,18 @@ int Agent::Orientarse(){
 	for(int i = 0; i < 100; i++){
 		for(int j = 0; j < 100; j++){
 			// mapa_entorno_[i][j] = aux[mypk2f -pk2f + i][mypk2c - pk2c + j];
-
-			mapa_solucion_[i][j] = aux[mypk2f -pk2f + i][mypk2c - pk2c + j];
-			migas_de_pan_[i][j] = aux_migas[mypk2f -pk2f + i][mypk2c - pk2c + j];
+			if(respawn){
+				if(mapa_solucion_[i][j] == '?'){
+					mapa_solucion_[i][j] = aux[mypk2f -pk2f + i][mypk2c - pk2c + j];
+					migas_de_pan_[i][j] = aux_migas[mypk2f -pk2f + i][mypk2c - pk2c + j];
+				}
+			}
+			else{
+				// if(mapa_solucion_[i][j] != '?' and aux[mypk2f -pk2f + i][mypk2c - pk2c + j] == '?')
+				mapa_solucion_[i][j] = aux[mypk2f -pk2f + i][mypk2c - pk2c + j];
+				migas_de_pan_[i][j] = aux_migas[mypk2f -pk2f + i][mypk2c - pk2c + j];
+			}
+			
 		}
 	}
 
@@ -939,28 +967,28 @@ Agent::ActionType Agent::Think()
 
 	//dar el oscar a dicaprio
 
-	else if(SURFACE_[1] == 'i' and EN_USO_ == '5'){
+	else if(SURFACE_[1] == 'i' and EN_USO_ == '5' and VISTA_[0] != 'B' and VISTA_[0] != 'A'){
 		cout << "Le dou el oscar a dicaprio"<<endl;
 		accion = actGIVE;
 		buscando1 = false;
 		buscando2 = false;
 	}
 
-	else if(SURFACE_[1] == 'j' and EN_USO_ == '5'){
+	else if(SURFACE_[1] == 'j' and EN_USO_ == '5' and VISTA_[0] != 'B' and VISTA_[0] != 'A'){
 		cout << "Le dou el oscar a dicaprio"<<endl;
 		accion = actGIVE;
 		buscando1 = false;
 		buscando2 = false;
 	}
 
-	else if(SURFACE_[1] == 'i' and EN_USO_ == '5' && (buscando1 or buscando2)){
+	else if(SURFACE_[1] == 'i' and EN_USO_ == '5' && (buscando1 or buscando2) and VISTA_[0] != 'B' and VISTA_[0] != 'A'){
 		cout << "le doy el oscar a dicaprio"<<endl;
 		buscando1 = false;
 		buscando2 = false;
 		accion = actGIVE;
 	}
 
-	else if(SURFACE_[1] == 'j' and EN_USO_ == '5' && (buscando1 or buscando2)){
+	else if(SURFACE_[1] == 'j' and EN_USO_ == '5' && (buscando1 or buscando2) and VISTA_[0] != 'B' and VISTA_[0] != 'A'){
 		cout << "Le dou el oscar a dicaprio"<<endl;
 		buscando1 = false;
 		buscando2 = false;
@@ -999,28 +1027,28 @@ Agent::ActionType Agent::Think()
 
 	}
 
-	else if(SURFACE_[1] == 'o' and EN_USO_ != '9' and find('9')){	
+	else if(SURFACE_[1] == 'o' and EN_USO_ != '9' and find('9') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
 		buscando1 = true;
 		cout << "guardo en la mochila"<< EN_USO_ <<endl;
 		accion = actPUSH;
 
 	}
 
-	else if(SURFACE_[1] == 'p' and EN_USO_ != '9' and find('9')){	
+	else if(SURFACE_[1] == 'p' and EN_USO_ != '9' and find('9') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
 		buscando1 = true;
 		cout << "guardo en la mochila"<< EN_USO_ <<endl;
 		accion = actPUSH;
 
 	}
 
-	else if(SURFACE_[1] == 'i' and EN_USO_ != '5' and find('5')){	
+	else if(SURFACE_[1] == 'i' and EN_USO_ != '5' and find('5') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
 		buscando1 = true;
 		cout << "guardo en la mochila"<< EN_USO_ <<endl;
 		accion = actPUSH;
 
 	}
 
-	else if(SURFACE_[1] == 'j' and EN_USO_ != '5' and find('5')){	
+	else if(SURFACE_[1] == 'j' and EN_USO_ != '5' and find('5') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
 		buscando1 = true;
 		cout << "guardo en la mochila"<< EN_USO_ <<endl;
 		accion = actPUSH;
@@ -1028,7 +1056,7 @@ Agent::ActionType Agent::Think()
 	}
 
 	else{
-
+/*
 		if(MENSAJE_ == "Has chocado con un obstaculo movil. "){
 			switch(orientacion_){
 		    case 0: // norte
@@ -1044,7 +1072,7 @@ Agent::ActionType Agent::Think()
 			    x_++;
 			    break;
 		  }
-		}
+		}*/
 
 
 	// else{
