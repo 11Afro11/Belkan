@@ -208,7 +208,6 @@ void Agent::ActualizarInformacion(Environment *env){
 		// Lo que tengas que hacer si eres reposicionado en el juego
 		x_= 99;
 		y_= 99;
-		tiempo =1;
 		bit_de_giro = 0;
 		giro_inicial=false;
 		giro_final=false;
@@ -225,6 +224,7 @@ void Agent::ActualizarInformacion(Environment *env){
 		      // mapa_[i][j]=0;
 		      mapa_entorno_[i][j]='?';
 		      mapa_objetos_[i][j]='?';
+		      migas_de_pan_[i][j] = 0;
 		    }
 		
 
@@ -246,7 +246,7 @@ void Agent::ActualizarInformacion(Environment *env){
 
 	switch(last_accion_){
 	  case 0: //avanzar
-	  if(MENSAJE_ != "Has chocado con un obstaculo movil. "){
+	  if(MENSAJE_ != "Has chocado con un obstaculo movil. " and MENSAJE_!= "Menudo golpe contra el arbol. "){
 		  switch(orientacion_){
 		    case 0: // norte
 			    y_--;
@@ -625,6 +625,9 @@ int Agent::Orientarse(){
 					mapa_solucion_[i][j] = aux[mypk2f -pk2f + i][mypk2c - pk2c + j];
 					migas_de_pan_[i][j] = aux_migas[mypk2f -pk2f + i][mypk2c - pk2c + j];
 				}
+				else{
+					migas_de_pan_[i][j] = 3 + aux_migas[mypk2f -pk2f + i][mypk2c - pk2c + j];
+				}
 			}
 			else{
 				// if(mapa_solucion_[i][j] != '?' and aux[mypk2f -pk2f + i][mypk2c - pk2c + j] == '?')
@@ -679,12 +682,40 @@ int Agent::Orientarse(){
 }
 
 bool Agent::cabe(){
+	int cont = 0;
 	for(int i = 0; i < 4; i++){
 		if(MOCHILLA_[i] == '-'){
-			return true;
+			cont ++;
 		}
 	}
-	return false;
+
+	cout << "En la mochila tengo "<< cont << " huecos";
+
+
+	if(cont == 2 and find('0') and find('6') || (cont == 2 and EN_USO_ == '0' and find('6') || (cont == 2 and EN_USO_ == '6' and find('0')))){
+		cout << "Puedo cogerlo\n";
+		return true;
+	}
+
+	else if(cont <= 2){
+		cout << "NO PUEDO COGERLO\n";
+		return false;
+	}
+
+	else if(cont == 3 and EN_USO_ == '-'){
+		cout << "Puedo cogerlo\n";
+		return true;
+	}
+
+	else if(cont > 3){
+		cout << "Puedo cogerlo\n";
+		return true;
+	}	
+
+	else {
+		cout << "NO Puedo cogerlo\n";
+		return false;
+	}
 }
 
 
@@ -913,8 +944,65 @@ Agent::ActionType Agent::Think()
 	}
 	//coger algoritmo
 
-	else if(SURFACE_[0] == '9' and EN_USO_ != '-'){
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '9' and EN_USO_ == '-' and cabe()){
+		cout << "He recogido el alg\n";
+		accion = actPICKUP;
+	}
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '9' and EN_USO_ != '-' and cabe()){
 		cout << "He visto un algoritmo pero tengo algo en la mano"<<endl;
+		accion = actPUSH;
+		he_guardado = true;
+	}
+
+	//coger oscar
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '5' and EN_USO_ == '-' and cabe()){
+		cout << "He recogido el alg\n";
+		accion = actPICKUP;
+	}
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '5' and EN_USO_ != '-' and cabe()){
+		cout << "He visto un oscar pero tengo algo en la mano"<<endl;
+		accion = actPUSH;
+		he_guardado = true;
+	}
+
+	//coger manzana
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '8' and EN_USO_ == '-' and cabe()){
+		cout << "He recogido una manzana\n";
+		accion = actPICKUP;
+	}
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '8' and EN_USO_ != '-' and cabe()){
+		cout << "He visto una manzana pero tengo algo en la mano"<<endl;
+		accion = actPUSH;
+		he_guardado = true;
+	}
+
+	//coger oro
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '4' and EN_USO_ == '-' and cabe()){
+		cout << "He recogido una oro\n";
+		accion = actPICKUP;
+	}
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '4' and EN_USO_ != '-' and cabe()){
+		cout << "He visto oro pero tengo algo en la mano"<<endl;
+		accion = actPUSH;
+		he_guardado = true;
+	}
+
+	//coger oscar
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '2' and EN_USO_ == '-' and cabe()){
+		cout << "He recogido la espada\n";
+		accion = actPICKUP;
+	}
+
+	else if(VISTA_[0] != 'B' and VISTA_[0] != 'A' and SURFACE_[0] == '2' and EN_USO_ != '-' and cabe()){
+		cout << "He visto una espada pero tengo algo en la mano"<<endl;
 		accion = actPUSH;
 		he_guardado = true;
 	}
@@ -930,6 +1018,8 @@ Agent::ActionType Agent::Think()
 	//entrar al bosque
 
 	else if(VISTA_[1] == 'B' and EN_USO_ == '6' && (buscando1 or buscando2)){
+
+		cout << "voy a entrar en el bosque"<<endl;
 		buscando1 = false;
 		buscando2 = false;
 		accion = actFORWARD;
@@ -952,7 +1042,7 @@ Agent::ActionType Agent::Think()
 	}
 
 	else if(SURFACE_[1] == 'o' and EN_USO_ == '9' && (buscando1 or buscando2)){
-		cout << "le doy el algoritmo al profesor"<<endl;
+		cout << "le dou el algoritmo al profesor"<<endl;
 		buscando1 = false;
 		buscando2 = false;
 		accion = actGIVE;
@@ -990,6 +1080,90 @@ Agent::ActionType Agent::Think()
 
 	else if(SURFACE_[1] == 'j' and EN_USO_ == '5' && (buscando1 or buscando2) and VISTA_[0] != 'B' and VISTA_[0] != 'A'){
 		cout << "Le dou el oscar a dicaprio"<<endl;
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	//dar la manzana a la bruja
+
+	else if(SURFACE_[1] == 'm' and EN_USO_ == '8'){
+		cout << "Le doy la manzana a la bruja"<<endl;
+		accion = actGIVE;
+		buscando1 = false;
+		buscando2 = false;
+	}
+
+	else if(SURFACE_[1] == 'n' and EN_USO_ == '8'){
+		cout << "Le doy la manzana a la bruja"<<endl;
+		accion = actGIVE;
+		buscando1 = false;
+		buscando2 = false;
+	}
+
+	else if(SURFACE_[1] == 'm' and EN_USO_ == '8' && (buscando1 or buscando2)){
+		cout << "le doy la manzana a la bruja"<<endl;
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	else if(SURFACE_[1] == 'n' and EN_USO_ == '8' && (buscando1 or buscando2)){
+		cout << "Le doy la manzana a la bruja"<<endl;
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	//dar oro a cualquiera
+
+
+	else if(SURFACE_[1] >= 'g' and SURFACE_[1] <= 'p' and EN_USO_ == '4'){
+		cout << "le doy el oro a alguien"<<endl;
+		accion = actGIVE;
+		buscando1 = false;
+		buscando2 = false;
+	}
+
+	else if(SURFACE_[1] >= 'g' and SURFACE_[1] <= 'p' and EN_USO_ == '4' && (buscando1 or buscando2)){
+		cout << "le doy el oro a alguien"<<endl;
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	else if(SURFACE_[1] >= 'g' and SURFACE_[1] <= 'p' and EN_USO_ == '4' && (buscando1 or buscando2)){
+		cout << "le doy el oro a alguien"<<endl;
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	//dar la espada al princeso
+
+	else if(SURFACE_[1] == 'k' and EN_USO_ == '2'){
+		cout << "Le doy la espada al princeso"<<endl;
+		accion = actGIVE;
+		buscando1 = false;
+		buscando2 = false;
+	}
+
+	else if(SURFACE_[1] == 'l' and EN_USO_ == '2'){
+		cout << "Le doy la espada al princeso"<<endl;
+		accion = actGIVE;
+		buscando1 = false;
+		buscando2 = false;
+	}
+
+	else if(SURFACE_[1] == 'k' and EN_USO_ == '2' && (buscando1 or buscando2)){
+		cout << "Le doy la espada al princeso"<<endl;
+		buscando1 = false;
+		buscando2 = false;
+		accion = actGIVE;
+	}
+
+	else if(SURFACE_[1] == 'l' and EN_USO_ == '2' && (buscando1 or buscando2)){
+		cout << "Le doy la espada al princeso"<<endl;
 		buscando1 = false;
 		buscando2 = false;
 		accion = actGIVE;
@@ -1049,6 +1223,41 @@ Agent::ActionType Agent::Think()
 	}
 
 	else if(SURFACE_[1] == 'j' and EN_USO_ != '5' and find('5') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
+		buscando1 = true;
+		cout << "guardo en la mochila"<< EN_USO_ <<endl;
+		accion = actPUSH;
+
+	}
+
+	else if(SURFACE_[1] == 'm' and EN_USO_ != '8' and find('8') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
+		buscando1 = true;
+		cout << "guardo en la mochila"<< EN_USO_ <<endl;
+		accion = actPUSH;
+
+	}
+
+	else if(SURFACE_[1] == 'n' and EN_USO_ != '8' and find('8') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
+		buscando1 = true;
+		cout << "guardo en la mochila"<< EN_USO_ <<endl;
+		accion = actPUSH;
+
+	}
+
+	else if(SURFACE_[1] >= 'g' and SURFACE_[1] <= 'p' and EN_USO_ != '4' and find('4') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
+		buscando1 = true;
+		cout << "guardo en la mochila"<< EN_USO_ <<endl;
+		accion = actPUSH;
+
+	}
+
+	else if(SURFACE_[1] == 'k' and EN_USO_ != '2' and find('2') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
+		buscando1 = true;
+		cout << "guardo en la mochila"<< EN_USO_ <<endl;
+		accion = actPUSH;
+
+	}
+
+	else if(SURFACE_[1] == 'l' and EN_USO_ != '2' and find('2') and VISTA_[0] != 'B' and VISTA_[0] != 'A'){	
 		buscando1 = true;
 		cout << "guardo en la mochila"<< EN_USO_ <<endl;
 		accion = actPUSH;
