@@ -1,7 +1,0 @@
-\select@language {spanish}
-\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n de la pr\IeC {\'a}ctica}{2}{section.1}
-\contentsline {section}{\numberline {2}Algoritmo de movimiento}{2}{section.2}
-\contentsline {section}{\numberline {3}orientaci\IeC {\'o}n}{3}{section.3}
-\contentsline {section}{\numberline {4}Recoger objetos}{5}{section.4}
-\contentsline {section}{\numberline {5}Interacci\IeC {\'o}n con los personajes}{5}{section.5}
-\contentsline {section}{\numberline {6}Muerte}{6}{section.6}
